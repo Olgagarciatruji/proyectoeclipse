@@ -3,8 +3,8 @@ package com.google.eclipse.vistas;
 public class Hola {
 	public static void main(String[] args) {
 		System.out.println("Hola mundo!!!");
-		System.out.println("Holaaaaaa");
-		System.out.println("Hola de nuevo");
+		System.out.println("Holi");
+		System.out.println("hola");
 	}
 
 }
